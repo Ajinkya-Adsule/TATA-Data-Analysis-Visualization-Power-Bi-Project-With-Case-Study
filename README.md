@@ -29,19 +29,19 @@ Before starting the analysis, I ensured the dataset was clean and error-free usi
 Question 1
 The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
 1.	Revenue trend analysis to determine whether retail sales are seasonal 
- 
+ ![image alt](https://github.com/Ajinkya-Adsule/TATA-Data-Analysis-Visualization-Power-Bi-Project-With-Case-Study/blob/eee6b4fa47a75fac99dd682abc6e1ef33ba1c491/q%20no%201.png)
 Question 2
 The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.
 2.	Countries with the most potential for growth 
-3.	 
+![image alt](https://github.com/Ajinkya-Adsule/TATA-Data-Analysis-Visualization-Power-Bi-Project-With-Case-Study/blob/eee6b4fa47a75fac99dd682abc6e1ef33ba1c491/q%20no%202.png)	 
 Question 3
 The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
 3.	Top consumers making the most purchases from the business 
- 
+![image alt](https://github.com/Ajinkya-Adsule/TATA-Data-Analysis-Visualization-Power-Bi-Project-With-Case-Study/blob/eee6b4fa47a75fac99dd682abc6e1ef33ba1c491/q%20no%203.png)
 Question 4
 The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
 4.	Regions producing the greatest revenue 
- 
+![image alt](https://github.com/Ajinkya-Adsule/TATA-Data-Analysis-Visualization-Power-Bi-Project-With-Case-Study/blob/eee6b4fa47a75fac99dd682abc6e1ef33ba1c491/q%20no%204.png)
 TASK-4
 Develop a script and record a video presenting your findings to the CEO and CMO based on the four questions they asked and the visuals you created in the previous tasks.
 You can use your work or the model answer from the previous task to develop your presentation.
