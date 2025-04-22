@@ -1,1 +1,2 @@
 # TATA-Data-Analysis-Visualization-Power-Bi-Project-With-Case-Study
+This repository contains the solutions to the tasks that were completed as a part of the TATA Data Analysis & Visualization Case study & Power Bi  Virtual Internship Program. The program was hosted on Forage website under Job simulations and the solutions provided here are intended to serve as a reference for anyone looking to learn data visualization or Power BI.
