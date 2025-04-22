@@ -1,7 +1,8 @@
 # TATA-Data-Analysis-Visualization-Power-Bi-Project-With-Case-Study
 
-  
 
+
+![image alt](https://raw.githubusercontent.com/Ajinkya-Adsule/TATA-Data-Analysis-Visualization-Power-Bi-Project-With-Case-Study/refs/heads/main/tata%20project%20logo.webp)
 FORAGE – TATA   Virtual Internship Case Study 
 This repository contains the solutions to the tasks that were completed as a part of the TATA Data Analysis & Visualization Case study & Power Bi Virtual Internship Program. This case study was completed through Forage, focusing on core data skills like cleaning, modelling, visualization, and storytelling, providing hands-on experience in data analytics.
 
