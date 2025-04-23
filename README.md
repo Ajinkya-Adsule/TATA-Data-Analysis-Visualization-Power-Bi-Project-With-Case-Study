@@ -1,4 +1,5 @@
-# TATA-Data-Analysis-Visualization-Power-Bi-Project-With-Case-Study
+# TATA- Group Data Visualisation: Empowering Business with Effective Insights Virtual Internship #
+**Data-Analysis-and-Visualization-Power-Bi-Project-With-Case-Study along with data sets pbix files completion certificate  **
 
 
 
